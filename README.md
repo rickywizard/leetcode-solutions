@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rickywizard/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rickywizard/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/rickywizard/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rickywizard/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rickywizard/leetcode-solutions/tree/master/0027-remove-element) |
+| [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [2058-concatenation-of-array](https://github.com/rickywizard/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -51,9 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rickywizard/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rickywizard/leetcode-solutions/tree/master/0155-min-stack) |
+| [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/rickywizard/leetcode-solutions/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/rickywizard/leetcode-solutions/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
