@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rickywizard/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rickywizard/leetcode-solutions/tree/master/0027-remove-element) |
 | [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rickywizard/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/rickywizard/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rickywizard/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/rickywizard/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rickywizard/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rickywizard/leetcode-solutions/tree/master/0155-min-stack) |
 | [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rickywizard/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/rickywizard/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
