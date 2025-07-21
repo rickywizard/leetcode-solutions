@@ -13,14 +13,14 @@ class Solution:
 
         if top > bot:
             return False
-            
+
         row = top + (bot - top)//2
 
         print(row)
 
         l, r = 0, len(matrix[0])
         while l <= r:
-            hmid = (l+r)//2
+            hmid = l+(r-l)//2
 
             if target > matrix[row][hmid]:
                 l = hmid + 1
