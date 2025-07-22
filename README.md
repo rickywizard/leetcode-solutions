@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rickywizard/leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/rickywizard/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/rickywizard/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/rickywizard/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rickywizard/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/rickywizard/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rickywizard/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/rickywizard/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/rickywizard/leetcode-solutions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/rickywizard/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
