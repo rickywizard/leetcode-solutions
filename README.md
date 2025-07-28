@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rickywizard/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rickywizard/leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/rickywizard/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rickywizard/leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rickywizard/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0792-binary-search](https://github.com/rickywizard/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rickywizard/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rickywizard/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/rickywizard/leetcode-solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rickywizard/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rickywizard/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rickywizard/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
