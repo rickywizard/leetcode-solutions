@@ -5,7 +5,7 @@ class Solution:
         for i in range(len(nums)):
             temp = target - nums[i]
 
-            if nums[i] in hmap:
-                return [hmap[nums[i]], i]
+            if temp in hmap:
+                return [hmap[temp], i]
 
-            hmap[temp] = i
+            hmap[nums[i]] = i
