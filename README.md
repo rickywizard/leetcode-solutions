@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rickywizard/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/rickywizard/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rickywizard/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0792-binary-search](https://github.com/rickywizard/leetcode-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/rickywizard/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rickywizard/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1582-design-browser-history](https://github.com/rickywizard/leetcode-solutions/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/rickywizard/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rickywizard/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,5 +180,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/rickywizard/leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/rickywizard/leetcode-solutions/tree/master/1127-last-stone-weight) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rickywizard/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
