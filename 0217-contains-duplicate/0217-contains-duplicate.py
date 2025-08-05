@@ -3,9 +3,8 @@ class Solution:
         hmap = set()
 
         for num in nums:
-            if num not in hmap:
-                hmap.add(num)
-            else:
+            if num in hmap:
                 return True
+            hmap.add(num)
         
         return False
