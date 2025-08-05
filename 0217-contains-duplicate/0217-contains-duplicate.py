@@ -1,10 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        hmap = {}
+        hmap = set()
 
         for num in nums:
             if num not in hmap:
-                hmap[num] = 1
+                hmap.add(num)
             else:
                 return True
         
