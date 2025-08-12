@@ -5,36 +5,25 @@ class Solution:
 
         rows, cols = len(grid), len(grid[0])
 
-        q = collections.deque()
         visit = set()
         area = 0
 
-        def bfs(r, c) -> int:
-            res = 1
-            q.append((r, c))
+        def dfs(r, c) -> int:
+            if (r < 0 or r == rows or c < 0 or c == cols or
+                grid[r][c] == 0 or (r, c) in visit):
+                return 0
+            
             visit.add((r, c))
 
-            while q:
-                r, c = q.popleft()
-                directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
-
-                for dr, dc in directions:
-                    row, col = (r + dr), (c + dc)
-
-                    if (row in range(rows) and
-                        col in range(cols) and
-                        grid[row][col] == 1 and
-                        (row, col) not in visit):
-                        q.append((row, col))
-                        visit.add((row, col))
-                        res += 1
-            
-            return res
+            return (1 + dfs(r + 1, c) +
+                        dfs(r - 1, c) +
+                        dfs(r, c + 1) + 
+                        dfs(r, c - 1))
 
         for r in range(rows):
             for c in range(cols):
                 if grid[r][c] == 1 and (r, c) not in visit:
-                    area = max(bfs(r, c), area)
+                    area = max(dfs(r, c), area)
         
         return area
                     
