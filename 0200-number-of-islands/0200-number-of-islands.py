@@ -5,7 +5,6 @@ class Solution:
 
         rows, cols = len(grid), len(grid[0])
         island = 0
-        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
         def dfs(r, c):
             if (r < 0 or c < 0 or r >= rows or
