@@ -22,8 +22,7 @@ class Solution:
 
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c] == 1 and (r, c) not in visit:
-                    area = max(dfs(r, c), area)
+                area = max(dfs(r, c), area)
         
         return area
                     
